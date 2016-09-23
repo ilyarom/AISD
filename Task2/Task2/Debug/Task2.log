@@ -1,0 +1,11 @@
+﻿Сборка начата 23.09.2016 13:24:59.
+     1>Проект "D:\PS\2\Task2\Task2\Task2.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         D:\C\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\PS\2\Task2\Debug\Task2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\PS\2\Task2\Debug\Task2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\PS\2\Task2\Debug\Task2.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\Task2.obj
+     1>LINK : fatal error LNK1104: не удается открыть файл "kernel32.lib"
+     1>Сборка проекта "D:\PS\2\Task2\Task2\Task2.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.19
